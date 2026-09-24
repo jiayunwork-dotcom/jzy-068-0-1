@@ -1,0 +1,7 @@
+**/node_modules/
+**/dist/
+**/.git/
+**/*.log
+backend/server
+backend/cmd/server/server
+.DS_Store
