@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/components/CollaboratorCursors.tsx","./src/components/FormulaEditor.tsx","./src/components/Grid.tsx","./src/state/store.ts","./src/state/types.ts","./src/state/ws.ts"],"version":"5.9.3"}

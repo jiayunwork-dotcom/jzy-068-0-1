@@ -1,20 +1,17 @@
-# 依赖与构建产物
-node_modules/
-venv/
-__pycache__/
-*.pyc
-dist/
-build/
-*.egg-info/
+# Go
+backend/bin/
+*.test
+*.out
 
-# 环境与密钥
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Built bundle (regenerated in Docker / by `npm run build`)
+web/dist/
+
+# Local env / editor
 .env
-*.key
-*.pem
-auth.env
-
-# IDE / 系统
-.vscode/
-.idea/
-*.swp
 .DS_Store
+.idea/
+.vscode/

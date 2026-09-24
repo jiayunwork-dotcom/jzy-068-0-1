@@ -1,0 +1,8 @@
+frontend/node_modules/
+web/dist/
+**/*.test
+**/tmp/
+.git/
+.idea/
+.vscode/
+.DS_Store
